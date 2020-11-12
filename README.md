@@ -1,0 +1,2 @@
+# kuki.db
+fake layman
